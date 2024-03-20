@@ -1,7 +1,7 @@
 import requests
 
 
-api_key = 'e64948f0106841297c9425e059216ddf'
+api_key = 'enteryourapikeyhere'
 
 city_name = input("Enter city: ")
 state_code = input("Enter your abbreviated State value(Max 2 characters): ")
